@@ -12,7 +12,7 @@
     "eslint-config-react-app": "^5.0.2",
     "eslint-loader": "^3.0.2",
     "eslint-plugin-flowtype": "^4.3.0",
-    "gatsby": "^2.24.2",
+    "gatsby": "^4.14.0",
     "gatsby-cli": "^2.12.60",
     "gatsby-mdx": "0.6.3",
     "gatsby-plugin-catch-links": "^2.3.11",
